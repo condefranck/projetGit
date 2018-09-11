@@ -17,7 +17,7 @@ public class Bonjour {
 	
 	public static void main(String[] args) {
 		// TODO Ecrire bonjour dans la console
-		System.out.println("Bonjour Eclipse");
+		System.out.println("Bonjour Franck");
 	}
 
 }
